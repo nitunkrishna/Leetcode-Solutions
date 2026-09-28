@@ -1,8 +1,8 @@
 # 1614. Maximum Nesting Depth of the Parentheses
 
 **Difficulty:** Easy  
-**Topics:** Mid Level, String, Stack, Bracket Sequences
-**Contest:** Weekly Contest 210
+**Topics:** Mid Level, String, Stack, Bracket Sequences  
+**Contest:** Weekly Contest 210  
 **Link:** https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/
 
 ## Approach
