@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium  
 **Topics:** Senior, String, Stack, Greedy, Bracket Sequences  
-**Contest:** Weekly Contest 106
+**Contest:** Weekly Contest 106  
 **Link:** https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
 ## Approach
