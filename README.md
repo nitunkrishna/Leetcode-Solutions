@@ -19,10 +19,10 @@ This repository contains my solutions and notes for LeetCode problems, organized
 
 | Rating | Problems Solved |
 |--------|----------------:|
-| Easy    | 81 |
-| Medium    | 10 |
+| Easy    | 83 |
+| Medium    | 11 |
 | Hard   | 0 |
-| Total | 91 |
+| Total | 94 |
 
 > Problem counts are updated periodically.
 
