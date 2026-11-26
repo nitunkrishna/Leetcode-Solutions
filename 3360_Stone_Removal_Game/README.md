@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Topics:** Mid Level, Math, Simulation  
-**Contest:** Biweekly Contest 144
+**Contest:** Biweekly Contest 144  
 **Problem Link:** https://leetcode.com/problems/stone-removal-game/description/
 
 ## Approach
